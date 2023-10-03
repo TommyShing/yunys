@@ -6,3 +6,4 @@ cloud genshin auto claim using cf workers
 1. 多用户
 2. 多地区
 3. pushplus推送
+//代码是从各个地方借鉴来的，如有侵犯，请发issue，但可能不会太经常看
